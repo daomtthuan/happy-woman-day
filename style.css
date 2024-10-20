@@ -38,6 +38,7 @@ body {
   font-style: normal;
   text-align: center;
   text-shadow: #fc0 1px 0 10px;
+  z-index: 1;
 }
 
 .happy-woman-day h1 {
